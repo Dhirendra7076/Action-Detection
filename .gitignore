@@ -1,0 +1,24 @@
+# Data
+mp_data/
+MP_Data/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# ML files
+*.h5
+*.npy
+*.pt
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+
+venv/
+venv310/
+venv_tf/
